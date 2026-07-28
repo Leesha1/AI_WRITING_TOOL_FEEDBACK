@@ -22,7 +22,7 @@ import json
 import textstat
 
 # ---- SETUP ----
-client = genai.Client(api_key="AQ.Ab8RN6JJh7D0lUKIgi_BoAaJ0EwKpBSWFFIsebL7EWtjv5V8GQ")
+client = genai.Client(api_key="you api key here")
 MODEL_NAME = "gemini-flash-latest"
 
 
